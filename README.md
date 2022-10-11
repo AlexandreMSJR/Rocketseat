@@ -1,13 +1,14 @@
-# Meu portifólio
+# Meu portifólio - Rocketseat Discover
 
-> Curso **Discover** oferecido pela **Rocketseat**, com conceitos de  NodeJs, JavaScript, HTML5 e CSS3.
+> Curso **Discover** oferecido pela **Rocketseat**, com conceitos de  SQL, NodeJs, JavaScript, HTML5 e CSS3.
 
 ### Tecnologias utilizadas
 
-- JS
+- JS (JavaScript)
 - HTML
 - CSS
 - NodeJs
+- SQL
 - Git
 - GitHub
 
