@@ -1,0 +1,1 @@
+# Conceitos do Paradigma - Programação Funcional
